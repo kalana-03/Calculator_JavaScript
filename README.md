@@ -6,7 +6,7 @@
 
 A **lightweight, responsive calculator** built with vanilla HTML, CSS, and JavaScript – no frameworks, no dependencies. Handles basic arithmetic with a clean, neumorphic design.
 
-![Calculator screenshot](screenshots/demo.png)
+![Calculator screenshot](screenshotsdemo.png)
 
 ---
 
@@ -22,13 +22,7 @@ A **lightweight, responsive calculator** built with vanilla HTML, CSS, and JavaS
 | **Wide zero button** | Full-width `0` for easy use |
 | **Neumorphic styling** | Shadows, hovers, and scales for tactile feel |
 
----
 
-## Live Demo
-
-[Open the calculator →](https://kalana-03.github.io/Calculator_JavaScript/)
-
-*(Enable GitHub Pages: Settings → Pages → Source: `main` branch → `/ (root)`)*
 
 ---
 
